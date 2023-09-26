@@ -1,6 +1,6 @@
 //Set global array proxy links to solve CORS error
 var proxy = {
-    0: 'https://cors.luckydesigner.workers.dev/?',
+    0: 'http://120.79.90.207:7777/',
 };
 var channels = [];
 //Get default localstorage key
